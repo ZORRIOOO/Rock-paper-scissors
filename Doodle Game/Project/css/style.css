@@ -1,0 +1,26 @@
+.grid {
+    display: block;
+    width: 400px;
+    height: 700px;
+    margin: 0 auto;
+    background: url(../assets/temp1406589445.png) no-repeat center;
+    position: relative;
+    font-size: 200px;
+    text-align: center;
+}
+
+.doodler {
+    display: block;
+    width: 60px;
+    height: 60px;
+    background: url(../assets/pnghut_doodle-jump-video-game-pocket-god-kinect-java_6RB2hD6NxkVERSION2.png) center;
+    position: absolute;
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    background-color: green;
+    position: absolute;
+    border-radius: 5px;
+}
